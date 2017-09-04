@@ -10,4 +10,8 @@ Liste des différentes phases:
 Mise en place d'un scanner de documents
 Mise en place de Dropbox
 Mise en place d'un disque NAS
+Regarder le fonctionnement de "TimeCapsule"
+Mise en place d'un server Multimédia
+
+
  
