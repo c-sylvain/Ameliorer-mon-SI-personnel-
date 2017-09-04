@@ -2,10 +2,10 @@ Descriptif du projet :
 
 Amélioration de mon SI personel.
 
-Le projet sera réalisé en plusieures phases.
+Le projet sera réalisé en plusieures étapes.
 Chaque phase sera explicité dans un fichier qui sera mis à jour régulièrement.
 
-Liste des différentes phases:
+Liste des différentes étapes au projet:
 
 Mise en place d'un scanner de documents
 Mise en place de Dropbox
