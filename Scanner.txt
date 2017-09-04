@@ -1,5 +1,2 @@
 Mise en place du scanner de documents
 
-Choix : Scanner Brother qui se branche sur le réseau en RJ45
-
-Configurer par défaut le scanner pour scanner par defaut en 300 dpi et sortir les scans au format .jpg. 

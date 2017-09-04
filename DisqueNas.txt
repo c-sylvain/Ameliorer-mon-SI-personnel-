@@ -1,3 +1,1 @@
 Mise en place du disque Nas
-
-Choisir entre Synology et Qnap ainsi que la capacité de stockage et le nombre de disques. 

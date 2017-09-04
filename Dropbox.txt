@@ -1,6 +1,1 @@
 Mise en place de Dropbox
-
-Choisir la version payante avec une capacité de stockage de 1 To
-Créer un compte.
-
-
